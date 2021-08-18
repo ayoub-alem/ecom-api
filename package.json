@@ -1,0 +1,26 @@
+{
+  "name": "ecom-backend-project",
+  "version": "1.0.0",
+  "description": "Ecom-REST-api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ayoub Alem",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-async-errors": "^3.1.1",
+    "joi": "^17.2.1",
+    "joi-objectid": "^3.0.1",
+    "lodash": "^4.17.20",
+    "mongoose": "^5.10.3",
+    "multer": "^1.4.2",
+    "winston": "^3.3.3",
+    "winston-mongodb": "^5.0.4"
+  }
+}
